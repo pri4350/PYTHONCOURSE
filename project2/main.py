@@ -3,7 +3,7 @@ import time
 # Greeting based on time of day
 
 
-name = input("Swagat hai, enter your name: ")
+name = input("Welcome!, Please Enter Your Name: ")
 
 presentHour = datetime.datetime.now().hour
 
